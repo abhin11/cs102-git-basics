@@ -14,5 +14,13 @@ git config --global user.email "Email"
 Check whether the remote origin is already be setup by running
 git remote -v
 
+Summary:
+
+In the lecture we learnt about github , vscode and markdown.Vscode is used to code in different languages like python, edit files etc actually it is streamlined code editor with support for development operation like debugging task running, and version control. VS code stands for Visual Studio code.
+
+
+It provides all the tools that a developer might need for quick code, build , debug cycle and leaves more complex workflow to fuller featured IDEs. VS Code can be used for multiple purposes. It can be used for developments in various languages, all you need to use to edit text fils csv files, etc. 
+
+vscode provides intellisense which provides beginners easy access to the coding and vscode also provides direct access to git . There are quite a few markup languages to exist, one such is markdown. Markdown is a lightweight markup languages for creatig formatted text using a plain text editor. It is widely used in bloggig , instant messaging , olie forums , collabrative software and software.
 
 
