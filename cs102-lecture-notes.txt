@@ -1,1 +1,18 @@
+update the main repository
+git push 
+
+the difference between main repository and local the system
+git status 
+
+To add all files in the current directory
+git add.
+
+To check whether git is installed and to add your credentials to git, use the following
+git config --global user.name "Name"
+git config --global user.email "Email"
+
+Check whether the remote origin is already be setup by running
+git remote -v
+
+
 
